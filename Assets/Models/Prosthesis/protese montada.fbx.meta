@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 4e6bfd4e981836348befe96dd212fdf9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Pinos Para Conexao
+    100002: Protese Exportada 03
+    100004: //RootNode
+    100006: Raptor 2.0 Finger Pin.001
+    100008: Raptor 2.0 Finger Pin.002
+    100010: Raptor 2.0 Finger Pin.003
+    100012: Raptor 2.0 Finger Pin.004
+    100014: Raptor 2.0 Finger Pin.005
+    100016: Raptor 2.0 Fingertip
+    100018: Raptor 2.0 Fingertip.001
+    100020: Raptor 2.0 Fingertip.002
+    100022: Raptor 2.0 Fingertip.003
+    100024: Raptor 2.0 Fingertip.004
+    100026: Raptor 2.0 Proximal
+    100028: Raptor 2.0 Proximal.001
+    100030: Raptor 2.0 Proximal.002
+    100032: Raptor 2.0 Proximal.003
+    100034: Raptor 2.0 Proximal.004
+    100036: Raptor Reloaded Gauntlet
+    100038: Raptor Reloaded Knuckle Pin.001
+    100040: Raptor Reloaded Knuckle Pin.002
+    100042: Raptor Reloaded Retention Clip
+    100044: Raptor Reloaded Right Palm
+    100046: Raptor Reloaded Tensioner
+    100048: Raptor Reloaded Tensioner Pin
+    100050: Raptor Reloaded Thumb Pin.002
+    100052: Raptor Reloaded Wrist Pin
+    100054: Raptor Reloaded Wrist Pin Cap.001
+    100056: Raptor Reloaded Wrist Pin Cap.002
+    100058: Raptor Reloaded Wrist Pin Cap.003
+    100060: Raptor Reloaded Wrist Pin Cap.004
+    100062: Raptor Reloaded Wrist Pin.002
+    100064: Raptor Reloaded Wrist Pin.003
+    100066: Raptor Reloaded Wrist Pin.004
+    400000: Pinos Para Conexao
+    400002: Protese Exportada 03
+    400004: //RootNode
+    400006: Raptor 2.0 Finger Pin.001
+    400008: Raptor 2.0 Finger Pin.002
+    400010: Raptor 2.0 Finger Pin.003
+    400012: Raptor 2.0 Finger Pin.004
+    400014: Raptor 2.0 Finger Pin.005
+    400016: Raptor 2.0 Fingertip
+    400018: Raptor 2.0 Fingertip.001
+    400020: Raptor 2.0 Fingertip.002
+    400022: Raptor 2.0 Fingertip.003
+    400024: Raptor 2.0 Fingertip.004
+    400026: Raptor 2.0 Proximal
+    400028: Raptor 2.0 Proximal.001
+    400030: Raptor 2.0 Proximal.002
+    400032: Raptor 2.0 Proximal.003
+    400034: Raptor 2.0 Proximal.004
+    400036: Raptor Reloaded Gauntlet
+    400038: Raptor Reloaded Knuckle Pin.001
+    400040: Raptor Reloaded Knuckle Pin.002
+    400042: Raptor Reloaded Retention Clip
+    400044: Raptor Reloaded Right Palm
+    400046: Raptor Reloaded Tensioner
+    400048: Raptor Reloaded Tensioner Pin
+    400050: Raptor Reloaded Thumb Pin.002
+    400052: Raptor Reloaded Wrist Pin
+    400054: Raptor Reloaded Wrist Pin Cap.001
+    400056: Raptor Reloaded Wrist Pin Cap.002
+    400058: Raptor Reloaded Wrist Pin Cap.003
+    400060: Raptor Reloaded Wrist Pin Cap.004
+    400062: Raptor Reloaded Wrist Pin.002
+    400064: Raptor Reloaded Wrist Pin.003
+    400066: Raptor Reloaded Wrist Pin.004
+    2100000: No Name
+    2300000: Pinos Para Conexao
+    2300002: Protese Exportada 03
+    2300004: Raptor 2.0 Finger Pin.001
+    2300006: Raptor 2.0 Finger Pin.002
+    2300008: Raptor 2.0 Finger Pin.003
+    2300010: Raptor 2.0 Finger Pin.004
+    2300012: Raptor 2.0 Finger Pin.005
+    2300014: Raptor 2.0 Fingertip
+    2300016: Raptor 2.0 Fingertip.001
+    2300018: Raptor 2.0 Fingertip.002
+    2300020: Raptor 2.0 Fingertip.003
+    2300022: Raptor 2.0 Fingertip.004
+    2300024: Raptor 2.0 Proximal
+    2300026: Raptor 2.0 Proximal.001
+    2300028: Raptor 2.0 Proximal.002
+    2300030: Raptor 2.0 Proximal.003
+    2300032: Raptor 2.0 Proximal.004
+    2300034: Raptor Reloaded Gauntlet
+    2300036: Raptor Reloaded Knuckle Pin.001
+    2300038: Raptor Reloaded Knuckle Pin.002
+    2300040: Raptor Reloaded Retention Clip
+    2300042: Raptor Reloaded Right Palm
+    2300044: Raptor Reloaded Tensioner
+    2300046: Raptor Reloaded Tensioner Pin
+    2300048: Raptor Reloaded Thumb Pin.002
+    2300050: Raptor Reloaded Wrist Pin
+    2300052: Raptor Reloaded Wrist Pin Cap.001
+    2300054: Raptor Reloaded Wrist Pin Cap.002
+    2300056: Raptor Reloaded Wrist Pin Cap.003
+    2300058: Raptor Reloaded Wrist Pin Cap.004
+    2300060: Raptor Reloaded Wrist Pin.002
+    2300062: Raptor Reloaded Wrist Pin.003
+    2300064: Raptor Reloaded Wrist Pin.004
+    3300000: Pinos Para Conexao
+    3300002: Protese Exportada 03
+    3300004: Raptor 2.0 Finger Pin.001
+    3300006: Raptor 2.0 Finger Pin.002
+    3300008: Raptor 2.0 Finger Pin.003
+    3300010: Raptor 2.0 Finger Pin.004
+    3300012: Raptor 2.0 Finger Pin.005
+    3300014: Raptor 2.0 Fingertip
+    3300016: Raptor 2.0 Fingertip.001
+    3300018: Raptor 2.0 Fingertip.002
+    3300020: Raptor 2.0 Fingertip.003
+    3300022: Raptor 2.0 Fingertip.004
+    3300024: Raptor 2.0 Proximal
+    3300026: Raptor 2.0 Proximal.001
+    3300028: Raptor 2.0 Proximal.002
+    3300030: Raptor 2.0 Proximal.003
+    3300032: Raptor 2.0 Proximal.004
+    3300034: Raptor Reloaded Gauntlet
+    3300036: Raptor Reloaded Knuckle Pin.001
+    3300038: Raptor Reloaded Knuckle Pin.002
+    3300040: Raptor Reloaded Retention Clip
+    3300042: Raptor Reloaded Right Palm
+    3300044: Raptor Reloaded Tensioner
+    3300046: Raptor Reloaded Tensioner Pin
+    3300048: Raptor Reloaded Thumb Pin.002
+    3300050: Raptor Reloaded Wrist Pin
+    3300052: Raptor Reloaded Wrist Pin Cap.001
+    3300054: Raptor Reloaded Wrist Pin Cap.002
+    3300056: Raptor Reloaded Wrist Pin Cap.003
+    3300058: Raptor Reloaded Wrist Pin Cap.004
+    3300060: Raptor Reloaded Wrist Pin.002
+    3300062: Raptor Reloaded Wrist Pin.003
+    3300064: Raptor Reloaded Wrist Pin.004
+    4300000: Protese Exportada 03
+    4300002: Raptor 2.0 Fingertip
+    4300004: Raptor 2.0 Proximal
+    4300006: Raptor Reloaded Gauntlet
+    4300008: Raptor Reloaded Retention Clip
+    4300010: Raptor Reloaded Right Palm
+    4300012: Raptor Reloaded Tensioner
+    4300014: Raptor Reloaded Tensioner Pin
+    4300016: Raptor Reloaded Wrist Pin
+    4300018: Raptor Reloaded Wrist Pin Cap.001
+    4300020: Raptor Reloaded Wrist Pin Cap.002
+    4300022: Raptor Reloaded Thumb Pin.002
+    4300024: Raptor Reloaded Wrist Pin.002
+    4300026: Raptor 2.0 Finger Pin.001
+    4300028: Raptor 2.0 Fingertip.001
+    4300030: Raptor 2.0 Proximal.001
+    4300032: Raptor 2.0 Finger Pin.002
+    4300034: Raptor Reloaded Knuckle Pin.001
+    4300036: Raptor 2.0 Fingertip.002
+    4300038: Raptor 2.0 Proximal.002
+    4300040: Raptor 2.0 Finger Pin.003
+    4300042: Raptor 2.0 Fingertip.003
+    4300044: Raptor 2.0 Proximal.003
+    4300046: Raptor 2.0 Finger Pin.004
+    4300048: Raptor Reloaded Knuckle Pin.002
+    4300050: Raptor 2.0 Fingertip.004
+    4300052: Raptor 2.0 Proximal.004
+    4300054: Raptor 2.0 Finger Pin.005
+    4300056: Raptor Reloaded Wrist Pin Cap.003
+    4300058: Raptor Reloaded Wrist Pin Cap.004
+    4300060: Raptor Reloaded Wrist Pin.003
+    4300062: Raptor Reloaded Wrist Pin.004
+    4300064: Pinos Para Conexao
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
